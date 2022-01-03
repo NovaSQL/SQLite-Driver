@@ -1,2 +1,2 @@
-# MySQL-Driver
-The official MySQL module for NovaSQL.
+# SQLite-Driver
+The official SQlite module for NovaSQL.
