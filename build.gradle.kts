@@ -6,5 +6,13 @@
  */
 
 plugins {
-  kotlin("jvm")
+  kotlin("jvm") version "1.6.10"
+}
+
+repositories {
+  mavenCentral()
+
+  maven {
+    url = uri("https://repo.novasql.io/repository/public/")
+  }
 }
